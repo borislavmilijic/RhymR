@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RhymR</string>
+    <string name="MN">MN: 01249658</string>
+    <string name="my_name">Borislav Milijic</string>
+    <string name="hint">Give me a word to rhyme</string>
+    <string name="search_title" />
+    <string name="hint_main">To start rhyming, click on the "Search" button in the top right corner!</string>
+    <string name="saved">saved</string>
+    <string name="save">save</string>
+    <string name="these_are_your_saved_search_terms">These are your saved search terms. Feel free to click on any of them to display results!</string>
+    <string name="rhymes">Rhymes</string>
+    <string name="synonyms">Synonyms</string>
+    <string name="homophones">Approx. Rhymes</string>
+    <string name="textview">TextView</string>
+</resources>
